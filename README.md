@@ -1,1 +1,1 @@
-# DiscordBot-VOICEVOX
+# 制作途中
