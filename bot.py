@@ -1,6 +1,8 @@
 import discord
+import os
 
-TOKEN = 'TOKEN'
+TOKEN_DATA = os.getenv("TOKEN_DATA")
+TOKEN = TOKEN_DATA
 
 client = discord.Client()
 
